@@ -1,9 +1,11 @@
-- 👋 你好, 我是@xiaowansm
+- 👋 Hi, I'm @xiaowansm
 
-- 💞️ 热爱生活，对一切新的事物充满好奇😄
+- 💞️ I'm an OpenWrt enthusiast.
 
-- 📫 与我联系 **wwang.pw@gmail.com**
+- 📫 Contact me **wwang.pw@gmail.com** | Telegram: @wwang8
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.yuyangyu755.repl.co/graph?username=xiaowansm5&theme=github-light)](https://github.com/xiaowansm5)
+
+
 
 
