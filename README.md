@@ -1,6 +1,8 @@
 
 
-<img align="right" width="400" src="https://streak-stats.demolab.com?user=xiaowansm5&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84">
+<img align="right" width="400" src="[https://streak-stats.demolab.com?user=xiaowansm5&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84](https://github-readme-stats.vercel.app/api?username=xiaowansm5&theme=buefy&show_icons=true)">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaowansm5&theme=buefy&show_icons=true)](https://github.com/xiaowansm5)
 
 - 👋 Hi, I'm @xiaowansm
 
