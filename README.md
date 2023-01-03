@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=xiaowansm5&theme=buefy&show_icons=true">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaowansm5&theme=buefy&show_icons=true)](https://github.com/xiaowansm5)
+
 
 - 👋 Hi, I'm @xiaowansm
 
