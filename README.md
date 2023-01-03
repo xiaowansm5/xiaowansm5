@@ -1,8 +1,4 @@
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=xiaowansm5&theme=ayu-light&hide_border=&border_radius=4.9&locale=zh_Hans)](https://github.com/xiaowansm5)
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=xiaowansm5&theme=buefy&show_icons=true">
 
 - 👋 Hi, I'm @xiaowansm
 
