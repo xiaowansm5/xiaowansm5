@@ -9,7 +9,7 @@ Telegram: [@xiaowan_sm](https://t.me/xiaowan_sm)
 
 
 
-[![xiaowansm5's github activity graph](https://github.wwangpw.repl.co/graph?username=xiaowansm5&bg_color=211c1f&color=6cf033&line=46c874&point=e70d65&area=true&hide_border=true)](https://github.com/xiaowansm5)
+[![xiaowansm5's github activity graph](github-readme-activity-graph.vercel.app/graph?username=xiaowansm5&bg_color=211c1f&color=6cf033&line=46c874&point=e70d65&area=true&hide_border=true)](https://github.com/xiaowansm5)
 
 
 
