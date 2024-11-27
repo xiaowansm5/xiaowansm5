@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=xiaowansm5&theme=dracula&show_icons=true&locale=cn">
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=xiaowansm5&theme=shadow_green&show_icons=true&locale=cn">
 
 - 👋 Hi, I'm @xiaowansm
 
